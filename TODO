@@ -1,0 +1,11 @@
+Task List for Perl Metrics project
+
+-	Add POD to script
+-	Enable writing perl-metrics report to end-of-file
+-	Accumulate totals for a project of multiple source files
+
+
+
+
+
+$Id: TODO,v 1.3 2001/07/02 20:48:24 eisen Exp $
